@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * 使用RestController 注解 = Controller + ResponseBody
  * 返回的就是一个JSON数据
- * 传统的 Controller ,返回的是一个视图.
+ * 传统的 Controller ,返回的是一个视图.会去static文件夹下找对应String的视图.
  */
 @RestController
 public class HelloController {
