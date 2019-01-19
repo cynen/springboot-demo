@@ -23,4 +23,4 @@
 ###所有的ignore都不需要
 */.gitignore   
 ###所有的target都不需要
-*/target/classes/*
+*/target/*
