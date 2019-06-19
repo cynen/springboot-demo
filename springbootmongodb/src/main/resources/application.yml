@@ -1,0 +1,10 @@
+server:
+  port: 8001
+spring:
+  application:
+    name: mongotest
+  data:
+    mongodb:
+      host: 47.107.177.108
+      port: 8380
+      database: test
