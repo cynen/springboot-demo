@@ -1,0 +1,8 @@
+server:
+  port: 8099
+spring:
+  rabbitmq:
+    host: 47.107.177.108
+    username: admin
+    password: admin
+    port: 5672

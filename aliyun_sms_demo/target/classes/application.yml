@@ -1,0 +1,9 @@
+server:
+  port: 9009
+
+aliyun:
+  sms:
+    accessKeyId: LTAIt9zRAesqmsa6
+    accessSecret: rvxeoGyeMsRIig2ExqsZ540WhhjTY2
+    template_code: SMS_165413131
+    sign_name: 云上myth

@@ -1,4 +1,4 @@
-package com.cynen.springboot;
+package com.cynen.springboot.controller;
 
 import com.mongodb.BasicDBObject;
 import com.mongodb.client.FindIterable;
